@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <div class="header1">
+        <h2 class="title">1441 Market St. San francisco</h2>
+        <h2>(123) 458-7890</h2>
+        <h2>Mon-Sun</h2>
+        <button id="login">LOGIN/REGISTER</button>
+      </div>
+      <nav class="nav">
+        <div class="divheader">
+          <label for="menu" class="nav_label">
+            <img src="../images/icon-hamburger.svg" alt="" />
+          </label>
+          <input type="checkbox" name="" id="menu" class="nav_input" />
+          <div class="nav_menu">
+            <button class="nav_item">
+              <a href="">HOMEPAGE</a>
+            </button>
+            <button class="nav_item">
+              <a href="./favorites.html">FAVORITES</a>
+            </button>
+            <button class="nav_item">AGENCIES</button>
+            <button class="nav_item">PAGES</button>
+            <button class="nav_item">ABOUT</button>
+            <button class="nav_item">CONTACT</button>
+            <button class="nav_item">COMPARE</button>
+            <button class="nav_item items">SUBMIT LISTING</button>
+          </div>
+        </div>
+        <span class="span1">
+          <figure>
+            <a href="">
+              <img src="../images/Fill 3.png" alt="logo insure principal"
+            /></a>
+          </figure>
+          <h2 class="casaRHouse">Casa<strong>Royal</strong></h2>
+        </span>
+      </nav>
+    </header>
+    <main>
+      <section class="main1">
+        <h1 id="title">Let Us Guide You Home</h1>
+        <h3 id="title2">Find the house of your dreams</h3>
+        <div id="searchBar">
+          <div id="statusCopy">
+            <div class="rectangle">
+              <select name="Select Type" id="type">
+                <option value="">Selecione el Tipo Aqui</option>
+                <option value="Casa">Casa</option>
+                <option value="Apartamento">Apartamento</option>
+                <option value="Bodega">Bodega</option>
+              </select>
+            </div>
+          </div>
+          <div id="status">
+            <div class="rectangle2">
+              <select name="Select status" id="Status">
+                <option value="Renta">Renta</option>
+                <option value="Compra">Compra</option>
+              </select>
+            </div>
+          </div>
+          <div id="searchArea">
+            <div class="rectangle3">
+              <input
+                placeholder="Ubication"
+                name="Searh for properties"
+                id="properties"
+              />
+            </div>
+          </div>
+          <button id="btnFind">
+            <p class="brnFindText">FIND PROPERTIES</p>
+          </button>
+        </div>
+      </section>
+      <div id="sectionTitle">
+        <p class="fProperties">Featured Properties</p>
+        <p class="crRealState">CASAROYAL REAL ESTATE AGENCY</p>
+      </div>
+      <section id="containerCards"></section>
+    </main>
+    <script src="./main.js"></script>
+  </body>
+</html>

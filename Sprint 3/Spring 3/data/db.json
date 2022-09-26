@@ -1,0 +1,574 @@
+{
+  "RealState": [
+    {
+      "id": 1,
+      "name": "Casa en Arriendo",
+      "ubication": "El Choco",
+      "area": "1500 m²",
+      "rooms": "5",
+      "bathrooms": "5",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "15.000.000",
+      "parkingLot": "3",
+      "owner": [
+        {
+          "nameOwner": "Juan",
+          "contact": "123424532"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/11067-M3695833/11067-M3695833_21_h.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Casa en Arriendo",
+      "ubication": "Envigado",
+      "area": "308 m²",
+      "rooms": "4",
+      "bathrooms": "3",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "6.500.000",
+      "parkingLot": "1",
+      "owner": [
+        {
+          "nameOwner": "Jessica",
+          "contact": "765434567"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M3167933/687-M3167933_1_h.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Zuñiga",
+      "area": "142 m²",
+      "rooms": "3",
+      "bathrooms": "4",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "3.600.000",
+      "parkingLot": "2",
+      "owner": [
+        {
+          "nameOwner": "Carlos",
+          "contact": "34676222"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M2505045/687-M2505045_1_h.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Zuñiga",
+      "area": "141 m²",
+      "rooms": "3",
+      "bathrooms": "3",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "2.800.000",
+      "parkingLot": "2",
+      "owner": [
+        {
+          "nameOwner": "Arturo",
+          "contact": "6854365743"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M2468759/687-M2468759_1_h.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Loma de las Brujas Envigado",
+      "area": "210 m²",
+      "rooms": "3",
+      "bathrooms": "4",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "9.000.000",
+      "parkingLot": "2",
+      "owner": [
+        {
+          "nameOwner": "Guillermo",
+          "contact": "765433452"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/10842-M3594040/10842-M3594040_1_h.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Benedictinos Envigado",
+      "area": "275 m²",
+      "rooms": "4",
+      "bathrooms": "4",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "9.000.000",
+      "parkingLot": "3",
+      "owner": [
+        {
+          "nameOwner": "Mailer",
+          "contact": "45678765"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/10842-M3576880/10842-M3576880_1_h.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bodega en Arriendo",
+      "ubication": "Las Casitas",
+      "area": "290 m²",
+      "rooms": "1",
+      "bathrooms": "5",
+      "type": "Bodega",
+      "category": "Rent",
+      "price": "7.143.000",
+      "parkingLot": "0",
+      "owner": [
+        {
+          "nameOwner": "David",
+          "contact": "456787654"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/11067-M3406739/11067-M3406739_1_h.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Casa en Arriendo",
+      "ubication": "El Choco",
+      "area": "1500 m²",
+      "rooms": "5",
+      "bathrooms": "5",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "15.000.000",
+      "parkingLot": "3",
+      "owner": [
+        {
+          "nameOwner": "Juan",
+          "contact": "123424532"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/11067-M3695833/11067-M3695833_21_h.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Casa en Arriendo",
+      "ubication": "Envigado",
+      "area": "308 m²",
+      "rooms": "4",
+      "bathrooms": "3",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "6.500.000",
+      "parkingLot": "1",
+      "owner": [
+        {
+          "nameOwner": "Jessica",
+          "contact": "765434567"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M3167933/687-M3167933_1_h.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Casa en Arriendo",
+      "ubication": "El Choco",
+      "area": "1500 m²",
+      "rooms": "5",
+      "bathrooms": "5",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "15.000.000",
+      "parkingLot": "3",
+      "owner": [
+        {
+          "nameOwner": "Juan",
+          "contact": "123424532"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/11067-M3695833/11067-M3695833_21_h.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Casa en Arriendo",
+      "ubication": "Envigado",
+      "area": "308 m²",
+      "rooms": "4",
+      "bathrooms": "3",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "6.500.000",
+      "parkingLot": "1",
+      "owner": [
+        {
+          "nameOwner": "Jessica",
+          "contact": "765434567"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M3167933/687-M3167933_1_h.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Zuñiga",
+      "area": "142 m²",
+      "rooms": "3",
+      "bathrooms": "4",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "3.600.000",
+      "parkingLot": "2",
+      "owner": [
+        {
+          "nameOwner": "Carlos",
+          "contact": "34676222"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M2505045/687-M2505045_1_h.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Zuñiga",
+      "area": "141 m²",
+      "rooms": "3",
+      "bathrooms": "3",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "2.800.000",
+      "parkingLot": "2",
+      "owner": [
+        {
+          "nameOwner": "Arturo",
+          "contact": "6854365743"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M2468759/687-M2468759_1_h.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Loma de las Brujas Envigado",
+      "area": "210 m²",
+      "rooms": "3",
+      "bathrooms": "4",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "9.000.000",
+      "parkingLot": "2",
+      "owner": [
+        {
+          "nameOwner": "Guillermo",
+          "contact": "765433452"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/10842-M3594040/10842-M3594040_1_h.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Benedictinos Envigado",
+      "area": "275 m²",
+      "rooms": "4",
+      "bathrooms": "4",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "9.000.000",
+      "parkingLot": "3",
+      "owner": [
+        {
+          "nameOwner": "Mailer",
+          "contact": "45678765"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/10842-M3576880/10842-M3576880_1_h.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Bodega en Arriendo",
+      "ubication": "Las Casitas",
+      "area": "290 m²",
+      "rooms": "1",
+      "bathrooms": "5",
+      "type": "Bodega",
+      "category": "Rent",
+      "price": "7.143.000",
+      "parkingLot": "0",
+      "owner": [
+        {
+          "nameOwner": "David",
+          "contact": "456787654"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/11067-M3406739/11067-M3406739_1_h.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Casa en Arriendo",
+      "ubication": "El Choco",
+      "area": "1500 m²",
+      "rooms": "5",
+      "bathrooms": "5",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "15.000.000",
+      "parkingLot": "3",
+      "owner": [
+        {
+          "nameOwner": "Juan",
+          "contact": "123424532"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/11067-M3695833/11067-M3695833_21_h.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Casa en Arriendo",
+      "ubication": "Envigado",
+      "area": "308 m²",
+      "rooms": "4",
+      "bathrooms": "3",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "6.500.000",
+      "parkingLot": "1",
+      "owner": [
+        {
+          "nameOwner": "Jessica",
+          "contact": "765434567"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M3167933/687-M3167933_1_h.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Casa en Arriendo",
+      "ubication": "El Choco",
+      "area": "1500 m²",
+      "rooms": "5",
+      "bathrooms": "5",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "15.000.000",
+      "parkingLot": "3",
+      "owner": [
+        {
+          "nameOwner": "Juan",
+          "contact": "123424532"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/11067-M3695833/11067-M3695833_21_h.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Casa en Arriendo",
+      "ubication": "Envigado",
+      "area": "308 m²",
+      "rooms": "4",
+      "bathrooms": "3",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "6.500.000",
+      "parkingLot": "1",
+      "owner": [
+        {
+          "nameOwner": "Jessica",
+          "contact": "765434567"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M3167933/687-M3167933_1_h.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Zuñiga",
+      "area": "142 m²",
+      "rooms": "3",
+      "bathrooms": "4",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "3.600.000",
+      "parkingLot": "2",
+      "owner": [
+        {
+          "nameOwner": "Carlos",
+          "contact": "34676222"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M2505045/687-M2505045_1_h.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Zuñiga",
+      "area": "141 m²",
+      "rooms": "3",
+      "bathrooms": "3",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "2.800.000",
+      "parkingLot": "2",
+      "owner": [
+        {
+          "nameOwner": "Arturo",
+          "contact": "6854365743"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M2468759/687-M2468759_1_h.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Loma de las Brujas Envigado",
+      "area": "210 m²",
+      "rooms": "3",
+      "bathrooms": "4",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "9.000.000",
+      "parkingLot": "2",
+      "owner": [
+        {
+          "nameOwner": "Guillermo",
+          "contact": "765433452"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/10842-M3594040/10842-M3594040_1_h.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Benedictinos Envigado",
+      "area": "275 m²",
+      "rooms": "4",
+      "bathrooms": "4",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "9.000.000",
+      "parkingLot": "3",
+      "owner": [
+        {
+          "nameOwner": "Mailer",
+          "contact": "45678765"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/10842-M3576880/10842-M3576880_1_h.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Bodega en Arriendo",
+      "ubication": "Las Casitas",
+      "area": "290 m²",
+      "rooms": "1",
+      "bathrooms": "5",
+      "type": "Bodega",
+      "category": "Rent",
+      "price": "7.143.000",
+      "parkingLot": "0",
+      "owner": [
+        {
+          "nameOwner": "David",
+          "contact": "456787654"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/11067-M3406739/11067-M3406739_1_h.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Casa en Arriendo",
+      "ubication": "El Choco",
+      "area": "1500 m²",
+      "rooms": "5",
+      "bathrooms": "5",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "15.000.000",
+      "parkingLot": "3",
+      "owner": [
+        {
+          "nameOwner": "Juan",
+          "contact": "123424532"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/11067-M3695833/11067-M3695833_21_h.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Casa en Arriendo",
+      "ubication": "Envigado",
+      "area": "308 m²",
+      "rooms": "4",
+      "bathrooms": "3",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "6.500.000",
+      "parkingLot": "1",
+      "owner": [
+        {
+          "nameOwner": "Jessica",
+          "contact": "765434567"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M3167933/687-M3167933_1_h.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Casa en Arriendo",
+      "ubication": "El Choco",
+      "area": "1500 m²",
+      "rooms": "5",
+      "bathrooms": "5",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "15.000.000",
+      "parkingLot": "3",
+      "owner": [
+        {
+          "nameOwner": "Juan",
+          "contact": "123424532"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/11067-M3695833/11067-M3695833_21_h.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Casa en Arriendo",
+      "ubication": "Envigado",
+      "area": "308 m²",
+      "rooms": "4",
+      "bathrooms": "3",
+      "type": "Casa",
+      "category": "Rent",
+      "price": "6.500.000",
+      "parkingLot": "1",
+      "owner": [
+        {
+          "nameOwner": "Jessica",
+          "contact": "765434567"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M3167933/687-M3167933_1_h.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Apartamento en Arriendo",
+      "ubication": "Zuñiga",
+      "area": "142 m²",
+      "rooms": "3",
+      "bathrooms": "4",
+      "type": "Apartamento",
+      "category": "Rent",
+      "price": "3.600.000",
+      "parkingLot": "2",
+      "owner": [
+        {
+          "nameOwner": "Carlos",
+          "contact": "34676222"
+        }
+      ],
+      "image": "https://metrocuadrado.blob.core.windows.net/inmuebles/687-M2505045/687-M2505045_1_h.jpg"
+    }
+  ]
+}
